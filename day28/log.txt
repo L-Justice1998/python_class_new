@@ -1,0 +1,5 @@
+2022-06-30 18:03:28,612 -1.logging.py[line:24] -DEBUG:这是 logger debug message process_num: 13452
+2022-06-30 18:03:28,615 -1.logging.py[line:25] -INFO:这是 logger info message process_num: 13452
+2022-06-30 18:03:28,615 -1.logging.py[line:26] -WARNING:这是 logger warning message process_num: 13452
+2022-06-30 18:03:28,616 -1.logging.py[line:27] -ERROR:这是 logger error message process_num: 13452
+2022-06-30 18:03:28,616 -1.logging.py[line:28] -CRITICAL:这是 logger critical message process_num: 13452
